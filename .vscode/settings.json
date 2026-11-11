@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "pgOptions": {
+                "ssl": {
+                    "rejectUnauthorized": true
+                }
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "dpg-dbqctpajnfac738amch0-a.virginia-postgres.render.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Render PostgreSQL",
+            "database": "atlas_ai_t2wc",
+            "username": "atlas_user"
+        }
+    ]
+}
