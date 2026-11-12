@@ -13,4 +13,4 @@ pinecone>=5,<9
 python-dotenv==1.0.1
 
 #  observability 
-glassflow-rius>=1.0,<2.0pip
+glassflow-rius>=1.0,<2.0
